@@ -23,3 +23,12 @@ img{
     width: 400px;
 
 }
+
+button {
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #888888;
+    background-color: #4CAF50; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espacio interno */
+    text-align: center; /* Alineación del texto */
+    }
